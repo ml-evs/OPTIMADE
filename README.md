@@ -28,6 +28,11 @@ Versions without a version number suffix (alpha, beta, release candidates and si
 
 The [develop branch of the repository](https://github.com/Materials-Consortia/OPTIMADE/tree/develop) contains the present in-development version of the specification.
 
+Additional branches are maintained for the latest in both major and minor release series, for example, [v1.0](https://github.com/Materials-Consortia/OPTIMADE/tree/v1.0) tracks the latest in the v1.0.x series and [v1](https://github.com/Materials-Consortia/OPTIMADE/tree/v1) tracks the latest in the v1.x series.
+Where possible and appropriate, fixes for specification bugs will be backported to these branches.
+
+All released (and pre-released) versions of the specification are available as [tags](https://github.com/Materials-Consortia/OPTIMADE/tags) and as [GitHub releases](https://github.com/Materials-Consortia/OPTIMADE/releases).
+
 API and client implementations are encouraged to support the latest release or pre-release of the specification.
 If this is a pre-release, implementations are also encouraged to support the latest stable release.
 
